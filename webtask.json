@@ -3,6 +3,7 @@
   "name": "auth0-authz",
   "version": "2.13.0",
   "author": "auth0",
+  "runtime": "node22",
   "codeUrl": "https://gist.githubusercontent.com/sauntimo/84372c1ebd26606802efba1f6a91bb5f/raw/6f7f9ef29bc072a46fa82623cce96db33ec47f0c/bundle.js",
   "description": "This extension gives Auth0 customers the possibility to manage group memberships for their users.",
   "type": "application",
